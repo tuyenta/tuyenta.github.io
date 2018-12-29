@@ -6,7 +6,7 @@
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 url: "http://tuyenta.github.io"
 baseurl: ""
-title: Pascal van Kooten
+title: @tuyen.ta
 description: Time Traveller
 
 # --- Navigation bar options --- #
