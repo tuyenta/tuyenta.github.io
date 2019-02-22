@@ -1,7 +1,7 @@
 {
-  "name": "kootenpv.github.io",
+  "name": "tuyenta.github.io",
   "version": "1.0.0",
-  "description": "Pascal van Kooten's github.io website.",
+  "description": "Duc-Tuyen Ta's github.io website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
