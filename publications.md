@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations
+title: Publications
 ---
 Copyrights of the papers on this page belong to the publishers. What this means is that publishing houses get to overcharge research institutions and universities for access to their employees’ research (which was carried out, reviewed and edited with no cost to the publishers), but they are gracious enough to allow authors to keep a preprint for personal use...
 
