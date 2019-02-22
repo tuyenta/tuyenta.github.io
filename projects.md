@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Have a look at my [GitHub](https://github.com/kootenpv/)
+Have a look at my [GitHub](https://github.com/tuyenta/)
 
 You could find for example:
 

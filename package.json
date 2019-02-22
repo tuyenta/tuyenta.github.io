@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kootenpv/kootenpv.github.io.git"
+    "url": "https://github.com/tuyenta/tuyenta.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kootenpv/kootenpv.github.io/issues"
+    "url": "https://github.com/tuyenta/tuyenta.github.io/issues"
   },
-  "homepage": "https://github.com/kootenpv/kootenpv.github.io",
+  "homepage": "https://github.com/tuyenta/tuyenta.github.io",
   "devDependencies": {
     "browser-sync": "^2.11.0",
     "gulp": "^3.9.0",
