@@ -29,11 +29,11 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Duc Tuyen Ta
-  email: "tuyenta@gmail.com"
+  email: "tuyentd86@gmail.com"
   github: tuyenta
   linkedin: pub/pascal-van-kooten/53/a68/b80
   stackoverflow: users/1575066/pascalvkooten
-  twitter: tuyenta
+  twitter: kootenpv
 
 # Select which links to show in the footer
 footer-links-active:
