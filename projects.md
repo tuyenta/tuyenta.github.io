@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 ---
+Any software on this page is distributed “as is” under the GNU general license. In short: use at will, let me know if you want to modify the source code, don’t sue me if your computer explodes :-)
 
 Have a look at my [GitHub](https://github.com/tuyenta/)
 
