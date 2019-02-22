@@ -6,8 +6,18 @@
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 url: "http://tuyenta.github.io"
 baseurl: ""
-title: @tuyen.ta
-description: Time Traveller
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://kootenpv.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: Duc Tuyen TA
+
+# Short description of your site
+description: Software enthusiast
 
 # --- Navigation bar options --- #
 
@@ -28,22 +38,22 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Duc Tuyen Ta
+  name: Duc-Tuyen Ta
   email: "tuyentd86@gmail.com"
   github: tuyenta
-  linkedin: pub/pascal-van-kooten/53/a68/b80
-  stackoverflow: users/1575066/pascalvkooten
-  twitter: kootenpv
+  #linkedin: pub/pascal-van-kooten/53/a68/b80
+  #stackoverflow: users/1575066/pascalvkooten
+  #twitter: kootenpv
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  #twitter: true
   github: true
-  linkedin: true
-  stackoverflow: true
+  #linkedin: true
+  #stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
