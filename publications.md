@@ -13,16 +13,15 @@ These are the publications I've **done**:
 * * *
 
 ## Working / Submitted papers
-
-[J5] Duc-Tuyen. Ta, Nhan Nguyen-Thanh, Patrick Maillé, and Van-Tam Nguyen, “Strategic Surveillance Against Primary User Emulation Attacks in Cognitive Radio Networks,” IEEE Transactions on Cognitive Communications and Networking, minor revision.
+[C8] Duc-Tuyen Ta, Kinda Kharwarm, Cédric Adjih, Samer Lahoud, and Steven Martin, “IOT-MAB: Toward an Intelligent Decentralized Resources Allocation Approach for IoT Networks”, on going
 
 [J4] Duc-Tuyen. Ta, and Duy H.N. Nguyen, and Nhan Nguyen-Thanh, and Van-Tam Nguyen, “Collaborative Paradigm for Next Generation Wireless Networks,” EURASIP Journal on Wireless Communications and Networking, second round of peer review.
-
-[J3] Nhan Nguyen-Thanh, and Duc-Tuyen. Ta, and Van-Tam Nguyen, “Spoofing Attack and Surveillance Game in Geo-location Database Driven Spectrum Sharing,” IET Communications , under consideration.
-
 * * *
 
 ## Articles in press
+[J4] Nhan Nguyen-Thanh, and Duc-Tuyen. Ta, and Van-Tam Nguyen, “Spoofing Attack and Surveillance Game in Geo-location Database Driven Spectrum Sharing,” IET Communications , vol. 13, no. 1, pp. 74–84, Apr 2019.
+
+[J3] Duc-Tuyen. Ta, Nhan Nguyen-Thanh, Patrick Maillé, and Van-Tam Nguyen, “Strategic Surveillance Against Primary User Emulation Attacks in Cognitive Radio Networks,” IEEE Transactions on Cognitive Communications and Networking, vol. 4, no. 3, pp. 582 – 596, Apr 2018.
 
 [J2] Duc-Tuyen. Ta, Tran Duc-Tan, Do Duc Dung, “Efficient and Reliable GPS-Based Wireless Ad Hoc for Marine Search Rescue System,” Multimedia and Ubiquitous Engineering , Lecture Notes in Electrical Engineering, vol. 240, pp. 911–918, May 2013.
 
